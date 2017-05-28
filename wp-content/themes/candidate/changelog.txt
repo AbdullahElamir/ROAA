@@ -1,0 +1,53 @@
+
+Version 1.0
+	Release
+
+Version 1.1
+	+ added post filters
+	+ minor fixes
+
+Version 1.2
+	+ VC content duplication fixed
+	+ Fixed Emailer form
+	+ VC plugin update
+	+ Revolution Slider plugin update
+    + Instagram plugin update
+
+Version 1.3
+    + Fixed social share buttons
+    + Update top panel for mobile version
+
+Version 1.4
+    + TribeEvents plugin update
+    + VC plugin update
+    + TribeEvents fixed
+
+Version 1.5
+    + VC plugin update
+
+    Version 1.5.1
+        + Translation fixed
+
+     Version 1.5.2
+        + Emailer fixed
+        + VC plugin update
+        + WP booking calendar plugin update
+        + Events calendar plugin update
+        + Wp instagram widget plugin update
+
+    Version 1.6
+          + Plugins included into the theme are updated to their latest versions
+          + Wordpress 4.5 ready
+
+    Version 1.7
+          + Plugins included into the theme are updated to their latest versions
+          + Update Events
+          + Update TGM Plugin Activation
+          + Еvents sorting fixed
+
+    Version 1.8
+         * All plugins Updated
+         * Updated Slider Revolution 5.2.5.4
+         * Slides Updated for Slider Revolution 5.2.5.4
+         * TGMPA Updated
+         + Google Map update
